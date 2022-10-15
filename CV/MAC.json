@@ -1,0 +1,861 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "EN",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Jose Alexis",
+      "surnames": "Jimenez Jimenez",
+      "title": "Digital Product Manager, Consultant CRM/CEM, .NET Developer, Cloud Architect, Serverless, DevOps",
+      "description": "Passionate about technology with more than 10 years of experience working in software development and implementation of web-based, distributed and client-server applications using agile methodologies and emerging technologies in different countries. Expertise in product management at all stages, code reviews, coding standards, performance optimization; with strong analytical, problem solving and interpersonal skills, with good written and verbal communication. Excellent team player both remotely and on-site.",
+      "avatar": {
+        "alt": "photoresume.png",
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/15/edee5484-d9e9-4bed-aa78-c6befedfb1c1_photoresume.png"
+      },
+      "location": {
+        "country": "Alemania",
+        "region": "Renania del Norte-Westfalia",
+        "municipality": "Bonn"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "github",
+        "URL": "https://github.com/josjimnzj/"
+      },
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/josealexisimenezjimenez/"
+      }
+    ],
+    "interestingFacts": [
+      {
+        "topic": "Hoobies",
+        "fact": "* Listening Podcast\n* Listening Rock Bands, Clasic Music, and more\n* Read about Technology\n* Surt\n* Movies\n* Fantasy Series"
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "LinkRoom",
+          "image": {
+            "alt": "Logo_linkroom2.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/15/417609ea-0843-475c-8fb6-b7a0e5a78bf8_logo_linkroom2.png"
+          },
+          "URL": "https://www.linkroom.com/"
+        },
+        "roles": [
+          {
+            "name": "Cloud Architect Consultant",
+            "startDate": "2022-08-01",
+            "challenges": [
+              {
+                "description": "Architecting, building, and maintaining cost-efficient, scalable cloud environments for the organization.\nKeeping cloud environments secure and preventing downtime or security breaches.\nMaking hardware and software recommendations for the organization, based on needs of the project and organization.\nImplementing of CI/CD using github actions for all projects with DevOps best practices.\nDevelopment of lambdas for dynamic management of EC2 instances and integration with Google Firebase."
+              }
+            ],
+            "competences": [
+              {
+                "name": "AWS",
+                "type": "technology"
+              },
+              {
+                "name": "Firebase",
+                "type": "technology"
+              },
+              {
+                "name": "Gitflow",
+                "type": "technology"
+              },
+              {
+                "name": "Github",
+                "type": "technology"
+              },
+              {
+                "name": "Lambda",
+                "type": "technology"
+              },
+              {
+                "name": "S3",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "AddACCION",
+          "image": {
+            "alt": "Logo_AddACCION2.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/15/c8256575-53c0-4464-9660-58b993150b0c_logo_addaccion2.png"
+          },
+          "URL": "https://addaccion.com/"
+        },
+        "roles": [
+          {
+            "name": "Digital Product Manager CRM/CEM",
+            "startDate": "2018-09-01",
+            "challenges": [
+              {
+                "description": "Data analysis and market research to detect new tendencies and needs of customers and prospects.\nManager of RoadMap and Life Cycle Product, leading new developments.\nSupport to the sales team in commercial demos and POC's.\nUI/UX redesign of software, resolving defects of previous version using UX audit tools. \nImplementation of new Omnichannel module, integration with Twilio for messaging, message queuing and machine learning.\nPromoter and leader for the migration of cloud infrastructure to Amazon Web Services, achieving a reduction in costs and taking advantage of new technologies for the product."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Freelance"
+        },
+        "roles": [
+          {
+            "name": "Consultant Freelance CRM",
+            "startDate": "2015-10-01",
+            "challenges": [
+              {
+                "description": "In charge of Salesforce Cloud discovery and implementation for 5 users.\nEssentials. Among my responsibilities was the configuration of users,\ncustomization of fields and labels, and finally the training of users.\nuser training. We were able to integrate landing pages and social media forms with\nwith Salesforce Cloud using Zappier as an automation tool and flow manager.\nautomation tool and flow manager; additionally, we added integration with\nSLACK for status change notifications for opportunities.\n\nResponsible for administering and supporting the Dynamics CRM 2013 infrastructure, including multiple user configurations\nCRM 2013 infrastructure, including multiple user configurations, profiles and roles,\ncustomization of objects, fields, record types, page layouts and validations.\nand validations. Development and creation of reports and dashboards, sending monthly automated reports.\nautomated monthly reports. Integration with core insurance system\nSISTRAN for information query and registration.\n\nImplementation of Hubspot Free for micro-companies that wish to connect their HTML or Wordpress\ntheir contact forms in HTML or Wordpress with a centralized database for future customer\ncentralized database for future customer and/or prospect management."
+              }
+            ],
+            "competences": [
+              {
+                "name": "CRM",
+                "type": "technology"
+              },
+              {
+                "name": "Hubspot",
+                "type": "technology"
+              },
+              {
+                "name": "Salesforce",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "AddACCION",
+          "image": {
+            "alt": "Logo_AddACCION2.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/15/b25be600-ab47-4f41-8e26-35e6802fe4e6_logo_addaccion2.png"
+          },
+          "URL": "https://addaccion.com/"
+        },
+        "roles": [
+          {
+            "name": "Consultan CRM/CEM",
+            "startDate": "2016-03-01",
+            "finishDate": "2018-09-01",
+            "challenges": [
+              {
+                "description": "Consulting and implementation of AddACCION CRM/CEM in different countries such as Mexico, Argentina, Peru, Honduras, Chile, Ecuador and Spain in companies focused on Banking, Insurance, Manufacturing, Car Dealers, Commerce, Retail and Services.\nIntegration of different core banking and insurance software.\nResponsible for development software improvements detected along the successful implementations of AddACCION CRM/CEM.\nLeader of the implementation team.\nEvangelist of agile methodologies (SCRUM + KANBAN) in the support and development areas.\nMigration of database modeling to MySQLv8.0, in order to reduce infrastructure cloud costs.\nMigration of .NET software architecture to .NETcore and microservices.\nDesign of mobile CRM/CEM application."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "AddACCION",
+          "URL": "https://addaccion.com/"
+        },
+        "roles": [
+          {
+            "name": "Developer Team Leader",
+            "startDate": "2014-06-01",
+            "finishDate": "2018-09-01",
+            "challenges": [
+              {
+                "description": "Design of full database architecture for new CRM Software.\nDesign of Multi-Layer software architecture using ExtJS + ASP.NET MVC + WCF + SQLServer 2012.\nResponsible for CRM development team, composed of more than 5 programmers + 1 Tester.\nIn charge of development team for Insurance Issues Certificates for the company COPPEL Mexico, using React + Bootstrap + ASP.NET MVC + ASP.NET API + SQLServer 2014.\nIn charge of the development team for BackOffice platform for the company Opción Seguros Argentina, using Angular + Bootstrap + ASP.NET MVC + ASP.NET API + SQLServer 2014 + Azure File Storage.\nAssistance in the development of BrokerUp Affinty and BrokerUp Cloud software, for brokers and insurance intermediaries."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Hidrostal",
+          "image": {
+            "alt": "Logo_linkroom2.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/15/d0c9df3a-70bb-4362-b384-227a22fccc67_logo_linkroom2.png"
+          },
+          "URL": "http://www.hidrostal.com.pe/"
+        },
+        "roles": [
+          {
+            "name": "Technical Business Analyst in .NET",
+            "startDate": "2013-10-01",
+            "finishDate": "2014-06-01",
+            "challenges": [
+              {
+                "description": "Analysis and development of the new ERP System, principal responsible for the warehouse module, using jQuery + Bootstrap + ASP.NET MVC + PL/SQL Oracle + WCF.\nRe-engineering in code and architecture of the Inventory Taking System for PDA devices."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "TGestiona",
+          "image": {
+            "alt": "Logo_linkroom2.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/15/f721c35f-0a35-4070-b15b-6a15c214554e_logo_linkroom2.png"
+          },
+          "URL": "https://www.tgestiona.com.pe/"
+        },
+        "roles": [
+          {
+            "name": "Technical Business Analyst",
+            "startDate": "2011-12-01",
+            "finishDate": "2013-10-01",
+            "challenges": [
+              {
+                "description": "Functional analysis and development in PL\\SQL + Unix/Linux of NBO System (New BackOffice) in batch processes for the company VISANET Perú. \nTechnical analysis and migration of batch processes in Cobol from the Stratus Transactional System to the NBO System for the company VISANET Perú.\nIn charge of the maintenance and 24x7 support of the NBO Batch processes for the company VISANET Perú.\nImplementation and analysis of the transactional data processing, using Oracle Web Logic 11 and Oracle Advanced Queuing for the company VISANET Perú."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "G&S Gestion y Sistemas SAC",
+          "image": {
+            "alt": "Logo_linkroom2.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/15/dc4520fd-a861-4172-b979-b4e0753d5453_logo_linkroom2.png"
+          },
+          "URL": "https://www.gestionysistemas.com/"
+        },
+        "roles": [
+          {
+            "name": ".NET Developer",
+            "startDate": "2011-06-01",
+            "finishDate": "2011-11-01",
+            "challenges": [
+              {
+                "description": "Analysis and development of the Inverse Auction Plataform for REP Perú.\nDevelopment of Personal Recluting Module ERPSispo for Graña y Montero."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "TeamSoft",
+          "image": {
+            "alt": "Logo_linkroom2.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/15/23dfdfa4-cc8f-4cbe-9d00-a00948340888_logo_linkroom2.png"
+          },
+          "URL": "https://www.teamsoft.com.pe/"
+        },
+        "roles": [
+          {
+            "name": " .NET Developer, Outsourcing Claro Perú",
+            "startDate": "2010-06-01",
+            "finishDate": "2011-06-01",
+            "challenges": [
+              {
+                "description": "Development and maintenance of Customer Service Platform for prepaid and postpaid telephony.\nMaintenance and re-engineering to upgrade the Support Service Plataform. \nAnalysis, design and development of the CO Billing Plataform."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Ministerio de Transporte y Comunicaciones, Perú",
+          "image": {
+            "alt": "Logo_linkroom2.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/15/4d24e9b8-2f8f-44f7-88d1-755aece0db50_logo_linkroom2.png"
+          },
+          "URL": "https://portal.mtc.gob.pe/nosotros/index.html"
+        },
+        "roles": [
+          {
+            "name": ".NET Developer Analyst",
+            "startDate": "2009-04-01",
+            "finishDate": "2010-06-01",
+            "challenges": [
+              {
+                "description": "Development and maintenance of different .NET Web Systems in Transport Sub Division.\nDesign and development of the mobile system for monitoring of the heavy transport cargo in the routes of Peru."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "English"
+      },
+      {
+        "name": "German"
+      },
+      {
+        "name": "Spanish"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "Python",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "NodeJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "C#",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "AWS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Azure",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JAVA",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "extJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "ext.NET",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Vue",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Angular2+",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "React",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "React Native",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Android",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SQLServer",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MySQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Oracle",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "DialogFlow",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Microsoft Dymanics 365",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Hubspot",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Salesforce",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Microsoft Sharepoint",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Microsoft Power BI",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Qlik",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Google Cloud",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "REST",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Redis",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "RabbitMQ",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Kafka",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Kibana",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Kiuwan",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Microsoft Active Directory",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "TypeScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Git",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Gitflow",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "GitLab",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Jira",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Github",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "TFS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "S3",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Visual Studio",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Visual Studio Code",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Eclipse",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Golang",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Rust",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Ionic",
+          "type": "technology"
+        }
+      }
+    ],
+    "studies": [
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Scrum Developer Certified (SDC)",
+        "startDate": "2017-05-01",
+        "institution": {
+          "name": "SCRUMStudy",
+          "URL": "https://www.scrumstudy.com/"
+        }
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Scrum Master Certified (SMC)",
+        "startDate": "2017-05-01",
+        "institution": {
+          "name": "SCRUMStudy",
+          "URL": "https://www.scrumstudy.com/"
+        }
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Scrum Fundamentals Certified (SFC)",
+        "startDate": "2017-05-01",
+        "institution": {
+          "name": "SCRUMStudy",
+          "URL": "https://www.scrumstudy.com/"
+        }
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Microsoft Certified Professional",
+        "startDate": "2012-04-01",
+        "institution": {
+          "name": "Microsoft",
+          "URL": "https://www.microsoft.com/"
+        }
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Microsoft® Certified Technology Specialist: .NET Framework 3.5, ASP.NET Applications",
+        "startDate": "2011-11-01",
+        "institution": {
+          "name": "Microsoft",
+          "URL": "https://www.microsoft.com/"
+        }
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Microsoft® Certified Technology Specialist: .Net Framework 2.0, Web Applications",
+        "startDate": "2009-11-01",
+        "institution": {
+          "name": "Microsoft",
+          "URL": "https://www.microsoft.com/"
+        }
+      },
+      {
+        "studyType": "selfTraining",
+        "degreeAchieved": true,
+        "name": "Vue.js: De Zero To Expert",
+        "startDate": "2022-07-01",
+        "finishDate": "2022-09-01",
+        "institution": {
+          "name": "Udemy",
+          "URL": "https://www.udemy.com"
+        }
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "Microservices Azure with NET 5",
+        "startDate": "2021-10-01",
+        "finishDate": "2021-11-01",
+        "institution": {
+          "name": "Aforo255 Training Center",
+          "URL": "https://aforo255.odoo.com/"
+        }
+      },
+      {
+        "studyType": "selfTraining",
+        "degreeAchieved": true,
+        "name": "Using gRPC in Microservices Communication with .Net 5",
+        "startDate": "2021-10-01",
+        "finishDate": "2021-11-01",
+        "institution": {
+          "name": "Udemy",
+          "URL": "https://www.udemy.com/"
+        }
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Microdegree Product Managment",
+        "startDate": "2021-01-01",
+        "finishDate": "2021-05-01",
+        "institution": {
+          "name": "Chrehana",
+          "URL": "https://www.crehana.com/"
+        }
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "AWS Cloud Particioner + Solution Architec",
+        "startDate": "2021-01-01",
+        "finishDate": "2021-04-01",
+        "institution": {
+          "name": "Certimas",
+          "URL": "https://certimas.com/"
+        }
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "Especialización de Data Analytics en AWS",
+        "startDate": "2020-07-01",
+        "finishDate": "2020-08-01",
+        "institution": {
+          "name": "bigdataiot.cloud",
+          "URL": "https://bigdataiot.cloud/data-analytics-aws/"
+        }
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "Microservices with .NET Core & Cotainers",
+        "startDate": "2020-03-01",
+        "finishDate": "2020-05-01",
+        "institution": {
+          "name": "JoeDayz Academy",
+          "URL": "https://joedayz.pe/"
+        }
+      },
+      {
+        "studyType": "selfTraining",
+        "degreeAchieved": true,
+        "name": "Microsoft Dynamics CRM",
+        "startDate": "2015-10-01",
+        "finishDate": "2015-11-01",
+        "institution": {
+          "name": "Microsoft Training"
+        }
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "Oracle Middleware: Web Logic 11g",
+        "startDate": "2012-11-01",
+        "finishDate": "2012-12-01",
+        "institution": {
+          "name": "Global Business Solutions Peru",
+          "URL": "https://gbs.pe/"
+        }
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "Oracle Business Intelligence Suite EE 10g R3",
+        "startDate": "2011-03-01",
+        "finishDate": "2011-04-01",
+        "institution": {
+          "name": "INSTITUTO CIBERTEC",
+          "URL": "https://www.cibertec.edu.pe/"
+        }
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Ingeniería Empresarial y de Sistemas",
+        "startDate": "2011-01-01",
+        "finishDate": "2013-12-01",
+        "institution": {
+          "name": "Universidad San Ignacio de Loyola",
+          "description": "Bachelor's degree",
+          "URL": "https://usil.edu.pe/en"
+        }
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "Diplomado de Gestión e Innovación de TI",
+        "startDate": "2010-03-01",
+        "finishDate": "2010-07-01",
+        "institution": {
+          "name": "INSTITUTO CIBERTEC",
+          "URL": "https://www.cibertec.edu.pe/"
+        }
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Computacion e Informatica",
+        "startDate": "2007-03-01",
+        "finishDate": "2010-02-01",
+        "institution": {
+          "name": "CIBERTEC",
+          "description": "Técnico\n\n",
+          "URL": "https://www.cibertec.edu.pe/"
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://www.linkedin.com/in/josealexisimenezjimenez/"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "AWS",
+          "type": "technology"
+        },
+        {
+          "name": "Angular2+",
+          "type": "technology"
+        },
+        {
+          "name": "Azure",
+          "type": "technology"
+        },
+        {
+          "name": "C#",
+          "type": "technology"
+        },
+        {
+          "name": "Google Cloud",
+          "type": "technology"
+        },
+        {
+          "name": "JavaScript",
+          "type": "technology"
+        },
+        {
+          "name": "Python",
+          "type": "technology"
+        },
+        {
+          "name": "React",
+          "type": "technology"
+        },
+        {
+          "name": "React Native",
+          "type": "technology"
+        },
+        {
+          "name": "Salesforce",
+          "type": "technology"
+        },
+        {
+          "name": "Serverless",
+          "type": "technology"
+        },
+        {
+          "name": "Vue",
+          "type": "technology"
+        }
+      ],
+      "preferredRoles": [
+        "Backend Developer",
+        "Business Operations & Strategy",
+        "DevOps & Infrastructure & SRE",
+        "Engineering Management",
+        "Product Manager",
+        "Product Owner",
+        "Software Architect",
+        "Tech Lead"
+      ]
+    }
+  }
+}
