@@ -54,7 +54,7 @@
             "startDate": "2022-08-01",
             "challenges": [
               {
-                "description": "Architecting, building, and maintaining cost-efficient, scalable cloud environments for the organization.\nKeeping cloud environments secure and preventing downtime or security breaches.\nMaking hardware and software recommendations for the organization, based on needs of the project and organization.\nImplementing of CI/CD using github actions for all projects with DevOps best practices.\nDevelopment of lambdas for dynamic management of EC2 instances and integration with Google Firebase."
+                "description": "Architecting, building, and maintaining cost-efficient, scalable cloud environments for the organization.\nKeeping cloud environments secure and preventing downtime or security breaches.\nMaking hardware and software recommendations for the organization, based on needs of the project and organization.\nImplementing of CI/CD using github actions for all projects with DevOps best practices.\nDevelopment of lambdas for dynamic management of EC2 instances and integration with Google Firebase.\nKeeping up to date on best practices in cloud computing and making improvements to the cloud infrastructure of their company or organization."
               }
             ],
             "competences": [
